@@ -2,6 +2,8 @@
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
+-- Jaata DB
+--
 -- Host: localhost
 -- Generation Time: Mar 04, 2023 at 09:55 PM
 -- Server version: 10.4.21-MariaDB
